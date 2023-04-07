@@ -1,0 +1,15 @@
+.kasa-banner{
+    width: 80vw;
+    height: 200px;
+    border: 1px solid black;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.kasa-banner img h1{
+    color:white;
+}
